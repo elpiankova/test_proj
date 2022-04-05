@@ -1,4 +1,5 @@
 import this, math
 
 print("Hello, Olena and World!")
+print("sadfsadf")
 print(math.cos(math.pi/2))
