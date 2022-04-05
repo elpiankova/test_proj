@@ -1,4 +1,4 @@
 import this, math
 
 print("Hello, Olena and World!")
-print(math.sin(math.pi))
+print(math.sin(math.pi/2))
