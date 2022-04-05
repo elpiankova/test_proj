@@ -1,5 +1,5 @@
 import this
 
-print("Hello, Olena!")
+print("Hello, Olena and World!")
 
 exit()
