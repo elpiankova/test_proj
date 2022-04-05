@@ -1,5 +1,6 @@
-import this
+import this, math
 
 print("Hello, Olena and World!")
+print(math.sin(math.pi))
 
 exit()
